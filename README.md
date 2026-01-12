@@ -1,7 +1,7 @@
 # Digital Marketing Performance Analysis
 
 ## Overview
-A project analyzing digital marketing data across **Facebook, TikTok, Instagram, and Google Ads**. Tracks key metrics like **impressions, clicks, conversions, CTR, and ad spend** and presents them in an **interactive Tableau dashboard** for clear insights into channel performance.
+A project analyzing digital marketing data across **Facebook, TikTok, Instagram, and Google Ads**. Tracks key metrics like **impressions, clicks, conversions, CTR, and ad spend** and presents them in an **Tableau dashboard** for clear insights into channel performance.
 
 ---
 
@@ -44,9 +44,9 @@ A project analyzing digital marketing data across **Facebook, TikTok, Instagram,
 
 ---
 
-## Tools / Tech Stack
+## Tools 
 - **Python** – Data cleaning and preprocessing  
 - **Excel** – Initial data review and simple calculations  
-- **Tableau** – Visualizations and interactive dashboard  
+- **Tableau** – Visualizations and dashboard  
 
 ---
