@@ -38,9 +38,9 @@ A project analyzing digital marketing data across **Facebook, TikTok, Instagram,
 ---
 
 ## Recommendations
-- **Reallocate budget strategically:** Increase ad spend on TikTok and Facebook campaigns with high CTR and conversions, while reducing underperforming campaigns on Instagram and Google Ads.  
+- **Reallocate budget strategically:** Increase ad spend on TikTok and Facebook campaigns with high CTR and conversions.
 - **Optimize low-performing channels:** Review targeting, creative content, and ad formats on Instagram and Google Ads. Test new creatives or audience segments to improve CTR and conversion rates.  
-- **Email campaigns:** Since email had good conversions but moderate spend, consider increasing targeted email campaigns with personalized content to maximize ROI.  
+- **TikTok campaigns:** Since Tiktok had good conversions but moderate spend, consider increasing amount on TikTok ads to maximize ROI.  
 - **Experiment & iterate:** Run A/B tests on creatives, messaging, or ad timing to see what improves performance across all channels.  
 
 ---
