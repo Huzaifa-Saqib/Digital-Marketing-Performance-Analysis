@@ -1,52 +1,53 @@
 # Digital Marketing Performance Analysis
 
 ## Overview
-A project analyzing digital marketing data across **Facebook, TikTok, Instagram, and Google Ads**. Tracks key metrics like **impressions, clicks, conversions, CTR, and ad spend** and presents them in an **Tableau dashboard** for clear insights into channel performance.
+A project analyzing digital marketing data across **Facebook, TikTok, Instagram, Google Ads, and Email**. Tracks key metrics like impressions, clicks, conversions, CTR, and ad spend, and presents them in a **Tableau dashboard**. The dashboard highlights which channels perform best, which underperform, and overall campaign efficiency.
 
 ---
 
 ## Objectives
 - Analyze performance across multiple digital channels  
-- Track important KPIs: impressions, clicks, conversions, CTR, spend  
-- Visualize trends and insights in one dashboard  
-- Provide actionable insights to optimize marketing campaigns  
+- Track key KPIs: impressions, clicks, conversions, CTR, spend  
+- Visualize trends and insights in a single dashboard  
+- Provide actionable insights for campaign optimization  
 
 ---
 
 ## Data
-- Ad performance data including impressions, clicks, conversions, and spend  
-- Data from multiple channels: Facebook, TikTok, Instagram, Google Ads  
+- Ad performance data from Facebook, TikTok, Instagram, Google Ads, and Email  
+- Metrics include impressions, clicks, conversions, and spend  
 
 ---
 
 ## Analysis & Approach
-1. Cleaned and prepared data using **Python** (handled missing values, duplicates, formatted dates, renamed columns)  
-2. Calculated metrics like CTR and conversions  
-3. Built an **interactive Tableau dashboard** with bar charts, column charts, pie charts, and KPI cards  
+1. Cleaned and prepared data using **Python**  
+2. Calculated metrics like CTR and conversion rate  
+3. Built an **interactive Tableau dashboard** with bar charts, pie charts, and KPI cards  
 4. Explored trends and compared performance across channels  
-5. Derived insights to help improve campaign efficiency  
+5. Derived insights to improve campaign efficiency  
 
 ---
 
 ## Key Findings
-- TikTok had the **highest CTR** despite lower spend  
-- Facebook and Instagram had **highest impressions** with varied conversion rates  
-- Spend distribution shows potential for **budget optimization**  
-- Dashboard makes it easy to identify top-performing channels and underperforming campaigns  
+- **Top-performing channels:** TikTok and Facebook  
+- **Low-performing channels:** Instagram and Google Ads  
+- **Highest ad spend:** Facebook and Email  
+- **Overall CTR:** 3%  
+- **Overall conversion rate:** 12.42%  
 
 ---
 
 ## Recommendations
-- Allocate more budget to **high-performing channels**  
-- Optimize campaigns on channels with high spend but low ROI  
-- Use the dashboard for **continuous monitoring and data-driven decisions**  
-- Apply insights to improve targeting and campaign strategy  
+- **Reallocate budget strategically:** Increase ad spend on TikTok and Facebook campaigns with high CTR and conversions, while reducing underperforming campaigns on Instagram and Google Ads.  
+- **Optimize low-performing channels:** Review targeting, creative content, and ad formats on Instagram and Google Ads. Test new creatives or audience segments to improve CTR and conversion rates.  
+- **Email campaigns:** Since email had good conversions but moderate spend, consider increasing targeted email campaigns with personalized content to maximize ROI.  
+- **Experiment & iterate:** Run A/B tests on creatives, messaging, or ad timing to see what improves performance across all channels.  
 
 ---
 
-## Tools 
+## Tools / Tech Stack
 - **Python** – Data cleaning and preprocessing  
-- **Excel** – Initial data review and simple calculations  
+- **Excel** – Initial review and simple calculations  
 - **Tableau** – Visualizations and dashboard  
 
 ---
