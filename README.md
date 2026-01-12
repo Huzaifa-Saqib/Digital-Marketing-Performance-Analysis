@@ -45,7 +45,7 @@ A project analyzing digital marketing data across **Facebook, TikTok, Instagram,
 
 ---
 
-## Tools / Tech Stack
+## Tools
 - **Python** – Data cleaning and preprocessing  
 - **Excel** – Initial review and simple calculations  
 - **Tableau** – Visualizations and dashboard  
